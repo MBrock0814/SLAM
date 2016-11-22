@@ -2,5 +2,5 @@
 layout: default
 permalink:
 ---
-# SLAM Documentation
+# SLAM Home
 Default Setup

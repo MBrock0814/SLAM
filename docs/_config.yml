@@ -16,10 +16,7 @@
 title: SLAM Documentation Site
 email: Matthew.B.Brock@live.mercer.edu  
 description: > # this means to ignore newlines until "baseurl:"
-  This site is for the SLAM PDR documentation. 
-  This site will host all of the resources for this project for
-  future use from other teams that have an intrest in continuing 
-  this project.
+  This site is for the SLAM PDR documentation. This site will host all of the resources for this project for future use from other teams that have an intrest in continuing this project.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://mbrock0814.github.io/SLAM/" # the base hostname & protocol for your site
 twitter_username: @MercerYou

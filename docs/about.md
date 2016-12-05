@@ -8,17 +8,23 @@ permalink: /about/
 
 ### Matthew R. Deremer
 Mercer Universty, Macon, GA
+
 Electrical Engineer, Minor in Computer Science
+
 Graduation Date: May, 2018
 
 ### Luke J. Pace
 Mercer University, Macon, GA
+
 Computer Engineering
+
 Graduation Date: May, 2018
 
 ### Christopher Woiwode
 Mercer Universtiy, Macon, GA
+
 Mechanical Engineering
+
 Graduation Date: May, 2018
 
 ## Project Advisors

@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /docs/Documentation Page/
+permalink: /documentationpage/
 ---
 # SLAM Documents
 ## SLAM PDR

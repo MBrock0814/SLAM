@@ -1,15 +1,30 @@
 ---
 layout: page
-title: About
+title: About Us
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+## Project Members
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jekyll" %} /
-[minima](https://github.com/jekyll/minima)
+### Matthew R. Deremer
+Mercer Universty, Macon, GA
+Electrical Engineer, Minor in Computer Science
+Graduation Date: May, 2018
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)
+### Luke J. Pace
+Mercer University, Macon, GA
+Computer Engineering
+Graduation Date: May, 2018
+
+### Christopher Woiwode
+Mercer Universtiy, Macon, GA
+Mechanical Engineering
+Graduation Date: May, 2018
+
+## Project Advisors
+Dr. Kevin Barnett, Electrical Engineering 
+Dr. Anthony Choi, Computer Engineering  
+Dr. Richard Kunz, Mechanical Engineering
+
+## Project Manager
+Dr. James Wright, Mechanical Engineering

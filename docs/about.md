@@ -23,6 +23,7 @@ Graduation Date: May, 2018
 
 ## Project Advisors
 Dr. Kevin Barnett, Electrical Engineering 
+
 Dr. Anthony Choi, Computer Engineering  
 Dr. Richard Kunz, Mechanical Engineering
 

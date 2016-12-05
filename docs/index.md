@@ -3,8 +3,8 @@ layout: default
 permalink:
 ---
 # SLAM Home
-### [SLAM Overview](/SLAM Overview/)
+### [SLAM Overview](/docs/SLAM Overview/)
 
-### [Project Team](/Project Team/)
+### [Project Team](/docs/Project Team/)
 
-### [Documentation Page](/Documentation Page/)
+### [Documentation Page](/docs/Documentation Page/)

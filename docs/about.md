@@ -22,9 +22,9 @@ Mechanical Engineering
 Graduation Date: May, 2018
 
 ## Project Advisors
-Dr. Kevin Barnett, Electrical Engineering 
-Dr. Anthony Choi, Computer Engineering  
-Dr. Richard Kunz, Mechanical Engineering
+ Dr. Kevin Barnett, Electrical Engineering
+ Dr. Anthony Choi, Computer Engineering  
+ Dr. Richard Kunz, Mechanical Engineering
 
 ## Project Manager
-Dr. James Wright, Mechanical Engineering
+ Dr. James Wright, Mechanical Engineering

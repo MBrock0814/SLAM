@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Documentation Overview
-permalink: /Documentation Overview/
+title: SLAM Overview
+permalink: /SLAM Overview/
 ---
-# Documentation Overview
+# SLAM Overview
 
 ##What is SLAM?

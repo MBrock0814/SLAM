@@ -11,7 +11,7 @@ permalink: /Documentation Page/
 
 [Glossary](mbrock0814/SLAM/master/docs/Glossary.md)
 
-[Budget and Cost](mbrock0814/SLAM/master/docs/Budget and Cost.md)
+[Budget and Cost](mbrock0814.github.io/SLAM/master/docs/Budget and Cost.md)
 
 [Final Design Specifications](mbrock0814/SLAM/master/docs/Final Design.md)
 

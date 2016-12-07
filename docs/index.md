@@ -6,6 +6,7 @@ permalink:
 ![Autonomous Vehicle]({{ site.baseurl }}/images/image3.png)
 ![ZED Camera]({{ site.baseurl }}/images/image1-222.png)
 ![TX1]({{ site.baseurl }}/images/image2-222.png)
+
 ## What is SLAM?
   Simultaneous localization and mapping (SLAM) is a popular technique used by autonomous vehicles for creating maps of an environment while tracking the location of the vehicle within the environment (Maxwell, 2013). This technique was pioneered in 1986 by R.C. Smith and P. Cheeseman in their article “On the Representation and Estimation of Spatial Uncertainty” and has been further advanced by Hugh F. Durrant-Whyte. In one of his articles published in the IEEE, Whyte described SLAM as the “Holy Grail” of autonomous vehicle research because “it eliminates the need for artificial infrastructures or a prioritopological knowledge of the environment” (Durrant-Whyte, H. F., 2001, June). There have been several theoretical techniques developed to do SLAM including EKF SLAM and FastSLAM, but there is not a technique or system that can successfully solve all facets of SLAM in a real-world environment (Milford, M. J., 2008).
 

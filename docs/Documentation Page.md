@@ -9,9 +9,9 @@ permalink: /Documentation Page/
 ## SLAM PDR
 [PDR](https://drive.google.com/drive/folders/0BxrVeIWzbuKSY0xPRUtuOEdDdU0?usp=sharing)
 
-[Glossary](mbrock0814/SLAM/master/docs/Glossary.md)
+[Glossary](SLAM/master/docs/Glossary.md)
 
-[Budget and Cost](mbrock0814.github.io/SLAM/master/docs/Budget and Cost.md)
+[Budget and Cost](/SLAM/master/docs/Budget and Cost.md)
 
 [Final Design Specifications](mbrock0814/SLAM/master/docs/Final Design.md)
 

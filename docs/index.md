@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title:
 permalink:
 ---
 # Simultaneous Localization and Mapping

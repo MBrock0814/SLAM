@@ -1,3 +1,9 @@
+---
+layout: default
+title: 
+permalink: /budgetandcost/
+---
+
 # Budget and Cost
 This project requires many components in order to be successful. The client has provided us with Thumper, Pixhawk Autopilot, and 3DR UBlox GPS + Compass Module so they will not be included in our budget analysis. The resources required have been divided into two categories: Financial and Guidance. Without either resource, this project would not be able to be completed. 
 

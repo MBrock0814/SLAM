@@ -15,6 +15,7 @@ Table 5: ZED and Jetson TX1 System Budget
 						![Table 5]({{ site.baseurl }}/Table 5.jpg)
 Table 6: Mount Budget 
 						![Table 6]({{ site.baseurl }}/Table 6.jpg)
+						
 **8.2 Guidance**
 
 Each team member chose one to two advisors as a guide for their respective area of the project. The chosen technical advisors provided great insight and guidance in terms of their specialization. Their contributions are invaluable to this project.

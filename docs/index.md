@@ -4,9 +4,6 @@ title: Home
 permalink:
 ---
 
-# SLAM Home
-  This site is for the SLAM PDR documentation. This site will host all of the resources for this project for future use from other teams that have an intrest in continuing this project, or want to learn about this project. All links are above to more information about this project.
-  
 ## What is SLAM?
   Simultaneous localization and mapping (SLAM) is a popular technique used by autonomous vehicles for creating maps of an environment while tracking the location of the vehicle within the environment (Maxwell, 2013). This technique was pioneered in 1986 by R.C. Smith and P. Cheeseman in their article “On the Representation and Estimation of Spatial Uncertainty” and has been further advanced by Hugh F. Durrant-Whyte. In one of his articles published in the IEEE, Whyte described SLAM as the “Holy Grail” of autonomous vehicle research because “it eliminates the need for artificial infrastructures or a prioritopological knowledge of the environment” (Durrant-Whyte, H. F., 2001, June). There have been several theoretical techniques developed to do SLAM including EKF SLAM and FastSLAM, but there is not a technique or system that can successfully solve all facets of SLAM in a real-world environment (Milford, M. J., 2008).
 

@@ -11,10 +11,11 @@ This project requires many components in order to be successful. The client has 
 
 Table 5 shows the cost of the parts for the ZED and Jetson TX1 system, as well as the total cost of the system. Table 6 shows the cost of the materials needed to build the mount and the total cost of the mount.
 
-								Table 5: ZED and Jetson TX1 System Budget
+						Table 5: ZED and Jetson TX1 System Budget
+						![Table 5](/SLAM/docs/images/Table 5.jpg)
 
-
-											Table 6: Mount Budget 
+							Table 6: Mount Budget 
+						![Table 6](/SLAM/docs/images/Table 6.jpg)
 **8.2 Guidance**
 
 Each team member chose one to two advisors as a guide for their respective area of the project. The chosen technical advisors provided great insight and guidance in terms of their specialization. Their contributions are invaluable to this project.

@@ -12,10 +12,10 @@ This project requires many components in order to be successful. The client has 
 Table 5 shows the cost of the parts for the ZED and Jetson TX1 system, as well as the total cost of the system. Table 6 shows the cost of the materials needed to build the mount and the total cost of the mount.
 
 Table 5: ZED and Jetson TX1 System Budget
-						![Table 5](/MBrock0814/SLAM/docs/images/Table 5.jpg)
+						![Table 5](MBrock0814/SLAM/docs/images/Table 5.jpg)
 						
 Table 6: Mount Budget 
-						![Table 6](/MBrock0814/SLAM/docs/images/Table 6.jpg)
+						![Table 6](MBrock0814/SLAM/docs/images/Table 6.jpg)
 						
 **8.2 Guidance**
 

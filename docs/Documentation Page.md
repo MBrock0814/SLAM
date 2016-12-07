@@ -7,7 +7,7 @@ permalink: /Documentation Page/
 # SLAM Documents
 
 ## SLAM PDR
-[PDR](https://drive.google.com/drive/folders/0BxrVeIWzbuKSY0xPRUtuOEdDdU0?usp=sharing)
+[PDR]({{ site.baseurl }}/pdr - SLAM.pdf)
 
 [Glossary]({{ site.baseurl }}/glossary/)
 

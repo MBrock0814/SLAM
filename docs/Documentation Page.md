@@ -9,11 +9,11 @@ permalink: /Documentation Page/
 ## SLAM PDR
 [PDR]({{ site.baseurl }}/PDR - SLAM.pdf)
 
-[Glossary]({{ site.baseurl }}/glossary/)
+[Final Design Specifications]({{ site.baseurl }}/finaldesign/)
 
 [Budget and Cost]({{ site.baseurl }}/budgetandcost/)
 
-[Final Design Specifications]({{ site.baseurl }}/finaldesign/)
+[Glossary]({{ site.baseurl }}/glossary/)
 
 
 

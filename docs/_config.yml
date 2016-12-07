@@ -17,7 +17,7 @@ title: SLAM Documentation Site
 email: Matthew.B.Brock@live.mercer.edu  
 description: > # this means to ignore newlines until "baseurl:"
   
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/SLAM" # the subpath of your site, e.g. /blog
 url: "https://mbrock0814.github.io/SLAM/" # the base hostname & protocol for your site
 twitter_username: MercerYou
 github_username:  MBrock0814

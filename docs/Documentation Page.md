@@ -7,7 +7,7 @@ permalink: /Documentation Page/
 # SLAM Documents
 
 ## SLAM PDR
-[PDR]({{ site.baseurl }}/pdr - SLAM.pdf)
+[PDR]({{ site.baseurl }}/PDR - SLAM.pdf)
 
 [Glossary]({{ site.baseurl }}/glossary/)
 

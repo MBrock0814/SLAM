@@ -3,7 +3,7 @@ layout: default
 title: 
 permalink: /glossary/
 ---
-##**Glossary** 
+## **Glossary** 
  
 **3DR UBlox GPS + Compass Module** – Global Positioning Device for use with the Pixhawk 
 

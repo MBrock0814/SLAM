@@ -1,3 +1,9 @@
+---
+layout: default
+title: 
+permalink:/finaldesign/
+---
+
 # Final Design Specifications
 The final design specifications are divided into two categories, system requirements and mount design.
  

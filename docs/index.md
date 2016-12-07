@@ -3,6 +3,7 @@ layout: default
 title: Home
 permalink:
 ---
+# Simultaneous Localization and Mapping
 ![Autonomous Vehicle]({{ site.baseurl }}/images/image3.png)
 ![ZED Camera]({{ site.baseurl }}/images/image1-222.png)
 ![TX1]({{ site.baseurl }}/images/image2-222.png)
